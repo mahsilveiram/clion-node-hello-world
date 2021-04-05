@@ -28,9 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb234028-2743-4011-a650-5e7a750020ab" name="Default Changelist" comment="&quot;package.json update&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617650725316</updated>
-      <workItem from="1617650726479" duration="3080000" />
+      <workItem from="1617650726479" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;package.json update&quot;">
       <created>1617652697233</created>
@@ -103,6 +101,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;package.json update&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="407" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617654071910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1617654071910" />
     <state width="1237" height="93" key="GridCell.Tab.0.bottom" timestamp="1617652743146">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
