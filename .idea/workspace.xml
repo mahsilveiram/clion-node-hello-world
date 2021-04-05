@@ -28,7 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb234028-2743-4011-a650-5e7a750020ab" name="Default Changelist" comment="&quot;package.json update&quot;">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617650725316</updated>
-      <workItem from="1617650726479" duration="3378000" />
+      <workItem from="1617650726479" duration="6158000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;package.json update&quot;">
       <created>1617652697233</created>
